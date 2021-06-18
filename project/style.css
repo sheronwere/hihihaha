@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(93, 144, 179);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(245, 243, 236);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.photo{
+    width: 300px;
+}
+
+.p-center{
+    text-align: center;
+}
